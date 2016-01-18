@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="cca">
+	<item value="8393" key="port"/>
+	<item value="esadmin" key="userId"/>
+	<item value="localhost" key="hostName"/>
+	<item value="8390" key="adminPort"/>
+	<item value="8" key="collections"/>
+	<item value="100000" key="timeout"/>
+	<section name="collection.6">
+		<item value="col_21040" key="id"/>
+		<item value="TwitterDemo_IBM_BigData" key="name"/>
+		<item value="ANALYTICS" key="type"/>
+		<section name="rdfOntologyQuerySet">
+			<item value="" key="superClass"/>
+			<item value="" key="resourceQuery"/>
+			<item value="" key="labelOfResource"/>
+			<item value="" key="synonymQuery"/>
+			<item value="" key="ontologyQuery"/>
+			<item value="" key="facetRootPath"/>
+			<item value="" key="classText"/>
+			<item value="" key="labelOfClass"/>
+			<item value="" key="resourceType"/>
+			<item value="" key="resourceText"/>
+		</section>
+	</section>
+	<section name="collection.7">
+		<item value="col_86491" key="id"/>
+		<item value="VDAB_merged" key="name"/>
+		<item value="ANALYTICS" key="type"/>
+		<section name="rdfOntologyQuerySet">
+			<item value="" key="superClass"/>
+			<item value="" key="resourceQuery"/>
+			<item value="" key="labelOfResource"/>
+			<item value="" key="synonymQuery"/>
+			<item value="" key="ontologyQuery"/>
+			<item value="" key="facetRootPath"/>
+			<item value="" key="classText"/>
+			<item value="" key="labelOfClass"/>
+			<item value="" key="resourceType"/>
+			<item value="" key="resourceText"/>
+		</section>
+	</section>
+	<section name="collection.4">
+		<item value="col_97229" key="id"/>
+		<item value="Studio Dictionary Extender - test" key="name"/>
+		<item value="ANALYTICS" key="type"/>
+		<section name="rdfOntologyQuerySet">
+			<item value="" key="superClass"/>
+			<item value="" key="resourceQuery"/>
+			<item value="" key="labelOfResource"/>
+			<item value="" key="synonymQuery"/>
+			<item value="" key="ontologyQuery"/>
+			<item value="" key="facetRootPath"/>
+			<item value="" key="classText"/>
+			<item value="" key="labelOfClass"/>
+			<item value="" key="resourceType"/>
+			<item value="" key="resourceText"/>
+		</section>
+	</section>
+	<section name="collection.5">
+		<item value="col_17611" key="id"/>
+		<item value="TwitterDemo_Eurovision2015" key="name"/>
+		<item value="ANALYTICS" key="type"/>
+		<section name="rdfOntologyQuerySet">
+			<item value="" key="superClass"/>
+			<item value="" key="resourceQuery"/>
+			<item value="" key="labelOfResource"/>
+			<item value="" key="synonymQuery"/>
+			<item value="" key="ontologyQuery"/>
+			<item value="" key="facetRootPath"/>
+			<item value="" key="classText"/>
+			<item value="" key="labelOfClass"/>
+			<item value="" key="resourceType"/>
+			<item value="" key="resourceText"/>
+		</section>
+	</section>
+	<section name="collection.2">
+		<item value="col_7811" key="id"/>
+		<item value="Export test" key="name"/>
+		<item value="ANALYTICS" key="type"/>
+		<section name="rdfOntologyQuerySet">
+			<item value="" key="superClass"/>
+			<item value="" key="resourceQuery"/>
+			<item value="" key="labelOfResource"/>
+			<item value="" key="synonymQuery"/>
+			<item value="" key="ontologyQuery"/>
+			<item value="" key="facetRootPath"/>
+			<item value="" key="classText"/>
+			<item value="" key="labelOfClass"/>
+			<item value="" key="resourceType"/>
+			<item value="" key="resourceText"/>
+		</section>
+	</section>
+	<section name="collection.3">
+		<item value="col_80780" key="id"/>
+		<item value="SAMPLE_COLLECTION" key="name"/>
+		<item value="SEARCH" key="type"/>
+		<section name="rdfOntologyQuerySet">
+			<item value="" key="superClass"/>
+			<item value="" key="resourceQuery"/>
+			<item value="" key="labelOfResource"/>
+			<item value="" key="synonymQuery"/>
+			<item value="" key="ontologyQuery"/>
+			<item value="" key="facetRootPath"/>
+			<item value="" key="classText"/>
+			<item value="" key="labelOfClass"/>
+			<item value="" key="resourceType"/>
+			<item value="" key="resourceText"/>
+		</section>
+	</section>
+	<section name="collection.0">
+		<item value="col_90059" key="id"/>
+		<item value="EWI OAI - Full texts and abstracts" key="name"/>
+		<item value="ANALYTICS" key="type"/>
+		<section name="rdfOntologyQuerySet">
+			<item value="" key="superClass"/>
+			<item value="" key="resourceQuery"/>
+			<item value="" key="labelOfResource"/>
+			<item value="" key="synonymQuery"/>
+			<item value="" key="ontologyQuery"/>
+			<item value="" key="facetRootPath"/>
+			<item value="" key="classText"/>
+			<item value="" key="labelOfClass"/>
+			<item value="" key="resourceType"/>
+			<item value="" key="resourceText"/>
+		</section>
+	</section>
+	<section name="collection.1">
+		<item value="col_95357" key="id"/>
+		<item value="EWI OAI - Full texts and abstracts - sample" key="name"/>
+		<item value="ANALYTICS" key="type"/>
+		<section name="rdfOntologyQuerySet">
+			<item value="" key="superClass"/>
+			<item value="" key="resourceQuery"/>
+			<item value="" key="labelOfResource"/>
+			<item value="" key="synonymQuery"/>
+			<item value="" key="ontologyQuery"/>
+			<item value="" key="facetRootPath"/>
+			<item value="" key="classText"/>
+			<item value="" key="labelOfClass"/>
+			<item value="" key="resourceType"/>
+			<item value="" key="resourceText"/>
+		</section>
+	</section>
+</section>

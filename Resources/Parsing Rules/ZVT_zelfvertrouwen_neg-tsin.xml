@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>ZVT_zelfvertrouwen_neg-ts</name>
+  <description></description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.ibm.Negatie</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>com.ibm.Positief</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>com.ibm.Zelfvertrouwen</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>polariteit</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    <typeDescription>
+      <name>uima.tt.TokenAnnotation</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.TokenLikeAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

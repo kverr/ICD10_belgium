@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityList>
+    <type>uima.tcas.DocumentAnnotation</type>
+    <type>uima.tt.ParagraphAnnotation</type>
+    <type>uima.tt.SentenceAnnotation</type>
+    <type>com.ibm.ZVT_zelfvertrouwen_neg</type>
+    <type>com.ibm.lw.marker.MarkerZVT_zelfvertrouwen_negOutputType</type>
+    <type>com.ibm.Negatie</type>
+    <type>com.ibm.Positief</type>
+    <type>com.ibm.Zelfvertrouwen</type>
+    <type>uima.tt.DictionaryEntryAnnotation</type>
+    <type>uima.tt.TokenAnnotation</type>
+  </priorityList>
+</typePriorities>

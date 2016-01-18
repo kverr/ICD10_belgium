@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Zelfredzaamheid-ts</name>
+  <description>Zelfredzaamheid</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.ibm.Zelfredzaamheid</name>
+      <description>Zelfredzaamheid</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>polarity</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

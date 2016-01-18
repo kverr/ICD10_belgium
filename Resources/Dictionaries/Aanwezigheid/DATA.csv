@@ -1,0 +1,8 @@
+"COL1","COL2","COL3"
+"aanwezig	1000aanwezige	1001","J","positive"
+"afwezig	1000afwezige	1001","J","negative"
+"aanwezigheid	1001aanwezigheids	0110","N","positive"
+"afwezigheid	1001afwezigheden	1000afwezigheids	0110","N","negative"
+"opdagen	1000daag op	1000daagde op	1000daagden op	1000daagt op	1000dagen op	1000komen opdagen	1000opdaag	1000opdaagde	1000opdaagden	1000opdaagt	1000opdagend	1000opdagende	1000opgedaagd	1000opgedaagde	1000","V","positive"
+"vergeten	1001vergat	1001vergaten	1001vergeet	1111vergetend	1001vergetende	1001","V","negative"
+"vergetelheid	1001vergetelheids	0110","N","negative"

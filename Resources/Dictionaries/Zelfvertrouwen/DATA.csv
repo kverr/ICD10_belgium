@@ -1,0 +1,10 @@
+"COL1","COL2","COL3"
+"zelfvertrouwen	1111","N","positive"
+"vertrouwen	1000","N","positive"
+"ontspannen	1000","J","positive"
+"openbloeien	1000bloei open	1000bloeide open	1000bloeiden open	1000bloeien open	1000bloeit open	1000openbloei	1000openbloeide	1000openbloeiden	1000openbloeiend	1000openbloeiende	1000openbloeit	1000opengebloeid	1000opengebloeide	1000","V","positive"
+"stress	1111","N","negative"
+"verlegen	1111verlegener	1000verlegenere	1000verlegenst	1000verlegenste	1000","J","negative"
+"verlegenheid	1000","N","negative"
+"gestresseerd	1000gestresseerde	1000","J","negative"
+"zelfbeeld	1000zelfbeelden	1000","N","neutral"

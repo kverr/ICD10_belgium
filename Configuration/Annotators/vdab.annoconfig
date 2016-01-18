@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="annotation">
+	<item value="1449758921319" key="lastModified"/>
+	<item value="nl" key="language"/>
+	<item value="4" key="version"/>
+	<list key="steps">
+		<item value="langid.0"/>
+		<item value="languageware.1"/>
+		<item value="afst.2"/>
+		<item value="afst.3"/>
+		<item value="custom.4"/>
+		<item value="typecleanup.5"/>
+	</list>
+	<section name="typecleanup.5">
+		<item value="false" key="useMultiplierInPear"/>
+		<item value="false" key="showDiscard"/>
+		<list key="extraConfigDataPathRel">
+		</list>
+		<list key="extraConfigNames">
+		</list>
+		<list key="discardTypes">
+		</list>
+		<list key="extraConfigGroups">
+		</list>
+	</section>
+	<section name="languageware.1">
+		<list key="languages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ru"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+		<list key="dictPaths.15">
+			<item value="${lw_lex_dictionary_path:nl}"/>
+			<item value="${lw_oov_dictionary_path:nl}"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Attitude.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Motivatie.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Negatie.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Positief.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Negatief.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Motivatie_WW.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Stiptheid.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Aanwezigheid.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Stopzetten.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Zelfredzaamheid.dic"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Dictionaries}/Zelfvertrouwen.dic"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="DefaultLanguage"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value="default"/>
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ru"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+		<section name="breakRules.10">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="posTagger.10">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="breakRules.11">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.12">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.17">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.4">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.18">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.5">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.19">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.2">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.3">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.13">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.0">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.14">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.1">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.15">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.16">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="posTagger.7">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.6">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.5">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.4">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.3">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.2">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.1">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.0">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.22">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.9">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.8">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="breakRules.22">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="posTagger.21">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.20">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="breakRules.20">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.21">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.8">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.9">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.6">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.7">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="posTagger.19">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.17">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.18">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.15">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.16">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.13">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.14">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.11">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.12">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+	</section>
+	<section name="custom.4">
+		<item value="C:\Users\IBM_ADMIN\studioworkspace\WCAExportAnnotations\desc\aeDescriptor.xml" key="taePath"/>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="ExportFile"/>
+			<item value="AnnotationTypePrefix"/>
+			<item value="Enabled"/>
+		</list>
+		<list key="classPath">
+			<item value="C:\Users\IBM_ADMIN\studioworkspace\WCAExportAnnotations\lib\commons-lang3-3.1.jar"/>
+			<item value="C:\Users\IBM_ADMIN\studioworkspace\WCAExportAnnotations\lib\WCAExportAnnotations.jar"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="com.ibm.nl"/>
+		</list>
+		<list key="extraConfigValue2">
+			<item value="false"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+		<list key="dataPathList">
+		</list>
+		<list key="extraConfigValue0">
+			<item value="/var/local/wexca/vdab-annotations.csv"/>
+		</list>
+	</section>
+	<section name="ccaSearchFields">
+		<item value="SEARCH" key="ccaCollectionType"/>
+		<item value="0" key="searchCount"/>
+	</section>
+	<section name="langid.0">
+		<item value="" key="dictPath"/>
+		<item value="" key="userdictFallbackLanguage"/>
+		<item value="" key="fallbackLanguage"/>
+		<item value="2" key="langIdType"/>
+		<list key="acceptLanguages">
+			<item value="nl"/>
+		</list>
+		<list key="userdictAcceptLanguages">
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="MaxCharsToExamine"/>
+			<item value="MaxTopLanguages"/>
+			<item value="UnknownProcessing"/>
+			<item value="UseTheFirstAcceptLangAsFallBack"/>
+			<item value="AcceptOnlyUnspecifiedInputLang"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue2">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+		<list key="extraConfigValue0">
+			<item value="1024"/>
+		</list>
+	</section>
+	<section name="exportPearData">
+		<item value="" key="outputPath"/>
+		<item value="vdab" key="pearName"/>
+		<item value="com.ibm.vdab" key="pearId"/>
+		<item value="true" key="cca"/>
+		<item value="2" key="ccaExportDataCount"/>
+		<item value="1" key="ccaExportDataLastUsed"/>
+		<section name="ccaExportData.1">
+			<item value="true" key="ccaRebuildIndex"/>
+			<item value="VDAB_merged" key="ccaCollection"/>
+			<item value="true" key="ccaAssociatePEAR"/>
+			<item value="1449511620809" key="ccaLastExport"/>
+			<item value="true" key="ccaRestartIndexer"/>
+			<item value="vdab_v6" key="ccaPearName"/>
+			<item value="/VDAB_SIP/Configuration/Servers/Wex.icaconfig" key="ccaConfig"/>
+			<section name="ccaSearchFields">
+				<item value="ANALYTICS" key="ccaCollectionType"/>
+				<item value="18" key="searchCount"/>
+				<section name="search8">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Attitude.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.ATT_aanwezigheid_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search9">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Attitude.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.ATT_aanwezigheid_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search10">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Attitude.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.ATT_attitude_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search12">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Attitude.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.ATT_stiptheid_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search5">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.MOT_interesseren_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search4">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.MOT_interesseren_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search11">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Attitude.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.ATT_attitude_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search14">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Zelfredzaamheid.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.ZRZ_zelfredzaam_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search7">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.MOT_zien_zitten_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search13">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Attitude.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.ATT_stiptheid_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search6">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.MOT_zien_zitten_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search16">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Zelfvertrouwen.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.ZVT_zelfvertrouwen_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search1">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.MOT_motivatie_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search15">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Zelfredzaamheid.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.ZRZ_zelfredzaam_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search0">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.MOT_motivatie_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search3">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.MOT_ingesteldheid_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search17">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Zelfvertrouwen.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.ZVT_zelfvertrouwen_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search2">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.MOT_ingesteldheid_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+			</section>
+		</section>
+		<section name="ccaExportData.0">
+			<item value="false" key="ccaRebuildIndex"/>
+			<item value="VDAB_SIP_SMP" key="ccaCollection"/>
+			<item value="true" key="ccaAssociatePEAR"/>
+			<item value="1449235852323" key="ccaLastExport"/>
+			<item value="true" key="ccaRestartIndexer"/>
+			<item value="VDAB_v3" key="ccaPearName"/>
+			<item value="/VDAB_SIP/Configuration/Servers/Wex.icaconfig" key="ccaConfig"/>
+			<section name="ccaSearchFields">
+				<item value="ANALYTICS" key="ccaCollectionType"/>
+				<item value="8" key="searchCount"/>
+				<section name="search5">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.MOT_interesseren_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search4">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.MOT_interesseren_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search7">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.MOT_zien_zitten_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search6">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.MOT_zien_zitten_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search1">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.MOT_motivatie_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search0">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.MOT_motivatie_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search3">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Negative" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Negative" key="facetTreeName"/>
+					<item value="com.ibm.MOT_ingesteldheid_neg" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+				<section name="search2">
+					<item value="" key="searchFieldName"/>
+					<item value="" key="facet"/>
+					<item value="Motivation.Positive" key="facetTreePath"/>
+					<item value="FLAT" key="facetType"/>
+					<item value="Covered Text" key="feature"/>
+					<item value="" key="literalValue"/>
+					<item value="Positive" key="facetTreeName"/>
+					<item value="com.ibm.MOT_ingesteldheid_pos" key="type"/>
+					<item value="false" key="searchable"/>
+				</section>
+			</section>
+		</section>
+	</section>
+	<section name="afst.3">
+		<list key="rulePaths.15">
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_ingesteldheid_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_interesseren_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_is_gemotiveerd_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_motivatie_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_zien_zitten_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ATT_attitude_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ATT_stiptheid_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ATT_aanwezigheid_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ATT_stopzetten_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ZRZ_zelfredzaam_neg.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ZVT_zelfvertrouwen_neg.jar"/>
+		</list>
+		<list key="extraConfigValue5">
+			<item value="2400,characters,uima.tt.SentenceAnnotation,firstMatch"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue6">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigValue3">
+			<item value="Token,uima.tt.TokenAnnotation"/>
+			<item value="Sentence,uima.tt.SentenceAnnotation"/>
+			<item value="Word,uima.tt.TokenAnnotation"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="SofaNames"/>
+			<item value="NameSpace"/>
+			<item value="IdFeature"/>
+			<item value="MapAnnotationNames"/>
+			<item value="FstMaxLevel"/>
+			<item value="LongTextParameters"/>
+			<item value="TolerateMissingTypes"/>
+			<item value="Focus"/>
+			<item value="RecursiveEngine"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="uima.tt"/>
+		</list>
+		<list key="ruleLanguages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ru"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="afst.2">
+		<list key="rulePaths.15">
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_is_gemotiveerd_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_motivatie_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_ingesteldheid_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_zien_zitten_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/MOT_interesseren_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ATT_attitude_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ATT_stiptheid_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ATT_aanwezigheid_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ZRZ_zelfredzaam_pos.jar"/>
+			<item value="${workspace_loc:/VDAB_SIP/Resources/Parsing Rules}/ZVT_zelfvertrouwen_pos.jar"/>
+		</list>
+		<list key="extraConfigValue5">
+			<item value="2400,characters,uima.tt.SentenceAnnotation,firstMatch"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue6">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigValue3">
+			<item value="Token,uima.tt.TokenAnnotation"/>
+			<item value="Sentence,uima.tt.SentenceAnnotation"/>
+			<item value="Word,uima.tt.TokenAnnotation"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="SofaNames"/>
+			<item value="NameSpace"/>
+			<item value="IdFeature"/>
+			<item value="MapAnnotationNames"/>
+			<item value="FstMaxLevel"/>
+			<item value="LongTextParameters"/>
+			<item value="TolerateMissingTypes"/>
+			<item value="Focus"/>
+			<item value="RecursiveEngine"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="uima.tt"/>
+		</list>
+		<list key="ruleLanguages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ru"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+	</section>
+</section>

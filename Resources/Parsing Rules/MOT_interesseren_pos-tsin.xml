@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>MOT_interesseren_pos-ts</name>
+  <description></description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.ibm.Motivatie</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>lemma</name>
+          <description></description>
+          <rangeTypeName>uima.tt.Lemma</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>attitude</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    <typeDescription>
+      <name>uima.tt.TokenAnnotation</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.TokenLikeAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>lemma</name>
+          <description></description>
+          <rangeTypeName>uima.tt.Lemma</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

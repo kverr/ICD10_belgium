@@ -1,0 +1,10 @@
+"COL1","COL2","COL3"
+"zelfredzaamheid	1000zelfredzaamheden	1100","N","positive"
+"zelfredzaam	1000zelfredzaamst	1001zelfredzaamste	1001zelfredzame	1001zelfredzamer	1000zelfredzamere	1000","J","positive"
+"hulpeloos	1000hulpeloost	1000hulpelooste	1000hulpeloze	1000hulpelozer	1000hulpelozere	1000","J","negative"
+"zelfstandig	1111zelfstandige	1001zelfstandiger	1000zelfstandigere	1000zelfstandigst	1001zelfstandigste	1001","J","positive"
+"onafhankelijk	1000onafhankelijke	1001onafhankelijker	1000onafhankelijkere	1000onafhankelijkst	1001onafhankelijkste	1001","J","positive"
+"afhankelijk	1000afhankelijke	1001afhankelijker	1000afhankelijkere	1000afhankelijkst	1001afhankelijkste	1001","J","negative"
+"zelfstandigheid	1001zelfstandigheids	0110","N","positive"
+"onafhankelijkheid	1001onafhankelijkheids	0110","N","positive"
+"afhankelijkheid	1000","N","negative"

@@ -1,0 +1,8 @@
+"COL1","COL2","COL3"
+"attitude	1000attituden	1000attitudes	1000","N","neutral"
+"gedrag	1111gedragingen	1001gedrags	0110","N","neutral"
+"gedragen	1000gedraag	1000gedraagt	1000","V","neutral"
+"houding	1001houdingen	1001houdings	0110","N","neutral"
+"houding	1001houdingen	1001houdings	0110","N","neutral"
+"medewerking	1000","N","positive"
+"meewerken	1000meegewerkt	1000meewerk	1000meewerkend	1000meewerkende	1000meewerkt	1000meewerkte	1000meewerkten	1000werk mee	1000werken mee	1000werkt mee	1000werkte mee	1000werkten mee	1000","V","positive"
